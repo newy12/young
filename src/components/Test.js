@@ -3,7 +3,7 @@ import React from 'react';
 const Test = () => {
     return (
         <>
-        jenkins
+        첫번째 서버
         </>
     );
 }
